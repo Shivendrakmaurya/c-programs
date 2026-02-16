@@ -1,8 +1,6 @@
-
 // C program to find the largest of three numbers
 
 #include <stdio.h>
-
 int main()
 {
                int a, b, c;
